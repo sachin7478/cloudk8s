@@ -1,0 +1,9 @@
+<!-- Small decorative card illustration used as a matching image for cards -->
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" preserveAspectRatio="xMidYMid meet">
+  <rect width="120" height="80" rx="8" fill="#f0fbff"/>
+  <g transform="translate(12,12)" fill="#dff4ff">
+    <rect x="0" y="0" width="36" height="20" rx="4"/>
+    <rect x="44" y="0" width="60" height="12" rx="4"/>
+    <rect x="44" y="22" width="28" height="10" rx="3"/>
+  </g>
+</svg>
